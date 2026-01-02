@@ -139,8 +139,10 @@ The dashboard enables lightweight exploration without requiring BI tools.
 ---------------
 Live Demo: [Streamlit](https://tht-data-analyst-suciramfau-looker-thelook-e-commerce.streamlit.app/)
 
-Author
-Suci Ramadhani Fauzi | Data Analyst
+
+# Author Suci Ramadhani Fauzi 
+
+Contact
 
 Email: suciramfau15@gmail.com
 
