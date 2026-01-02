@@ -136,9 +136,14 @@ The dashboard enables lightweight exploration without requiring BI tools.
 * Cohort and retention analysis
 * Automated pipeline (dbt / Airflow)
 
----
-## Author
+---------------
+Live Demo: [Streamlit](https://tht-data-analyst-suciramfau-looker-thelook-e-commerce.streamlit.app/)
 
-Suci Ramadhani Fauzi
-Data Analyst
-Portfolio Project
+Author
+Suci Ramadhani Fauzi | Data Analyst
+
+Email: suciramfau15@gmail.com
+
+LinkedIn:[View Profile](https://www.linkedin.com/in/suciramadhanifauzi/)
+
+Portfolio in Notion:[View Notion](https://www.notion.so/Suci-Ramadhani-Fauzi-Dashboard-2d22490fec64804ca096d8f4cee4c7ac)
