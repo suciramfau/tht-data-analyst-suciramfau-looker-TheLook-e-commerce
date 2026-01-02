@@ -137,15 +137,14 @@ The dashboard enables lightweight exploration without requiring BI tools.
 * Automated pipeline (dbt / Airflow)
 
 ---------------
-Live Demo: [Streamlit](https://tht-data-analyst-suciramfau-looker-thelook-e-commerce.streamlit.app/)
 
 
-# Author Suci Ramadhani Fauzi 
+
+## Author Suci Ramadhani Fauzi 
 
 Contact
 
 Email: suciramfau15@gmail.com
-
 LinkedIn:[View Profile](https://www.linkedin.com/in/suciramadhanifauzi/)
-
+Live Demo: [Streamlit](https://tht-data-analyst-suciramfau-looker-thelook-e-commerce.streamlit.app/)
 Portfolio in Notion:[View Notion](https://www.notion.so/Suci-Ramadhani-Fauzi-Dashboard-2d22490fec64804ca096d8f4cee4c7ac)
